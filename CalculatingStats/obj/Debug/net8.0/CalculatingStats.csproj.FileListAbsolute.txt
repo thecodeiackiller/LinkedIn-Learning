@@ -1,0 +1,14 @@
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\bin\Debug\net8.0\CalculatingStats.exe
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\bin\Debug\net8.0\CalculatingStats.deps.json
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\bin\Debug\net8.0\CalculatingStats.runtimeconfig.json
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\bin\Debug\net8.0\CalculatingStats.dll
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\bin\Debug\net8.0\CalculatingStats.pdb
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\CalculatingStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\CalculatingStats.AssemblyInfoInputs.cache
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\CalculatingStats.AssemblyInfo.cs
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\CalculatingStats.csproj.CoreCompileInputs.cache
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\CalculatingStats.dll
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\refint\CalculatingStats.dll
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\CalculatingStats.pdb
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\CalculatingStats.genruntimeconfig.cache
+C:\Users\knunn\Documents\Projects\linkedinlearning\CalculatingStats\obj\Debug\net8.0\ref\CalculatingStats.dll

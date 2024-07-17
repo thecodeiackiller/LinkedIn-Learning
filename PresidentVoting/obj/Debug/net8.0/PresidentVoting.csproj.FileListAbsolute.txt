@@ -1,0 +1,14 @@
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\bin\Debug\net8.0\PresidentVoting.exe
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\bin\Debug\net8.0\PresidentVoting.deps.json
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\bin\Debug\net8.0\PresidentVoting.runtimeconfig.json
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\bin\Debug\net8.0\PresidentVoting.dll
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\bin\Debug\net8.0\PresidentVoting.pdb
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\PresidentVoting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\PresidentVoting.AssemblyInfoInputs.cache
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\PresidentVoting.AssemblyInfo.cs
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\PresidentVoting.csproj.CoreCompileInputs.cache
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\PresidentVoting.dll
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\refint\PresidentVoting.dll
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\PresidentVoting.pdb
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\PresidentVoting.genruntimeconfig.cache
+C:\Users\knunn\Documents\Projects\linkedinlearning\PresidentVoting\obj\Debug\net8.0\ref\PresidentVoting.dll
