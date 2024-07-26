@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieNight", "MovieNight\Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordsOfAffirmation", "WordsOfAffirmation\WordsOfAffirmation.csproj", "{AC6B0BAD-A369-4A1A-8EC9-375686D3744F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSequence", "FibonacciSequence\FibonacciSequence.csproj", "{FDF25AAD-BA3A-4221-9F1A-B1AEBD4DE64B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciSequence", "FibonacciSequence\FibonacciSequence.csproj", "{FDF25AAD-BA3A-4221-9F1A-B1AEBD4DE64B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartyRSVP", "PartyRSVP\PartyRSVP.csproj", "{09753D06-4E4D-4899-A9B5-F960927B56A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator", "TipCalculator\TipCalculator.csproj", "{A6FEFF84-1800-46F3-B280-E07A6EC73E87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{FDF25AAD-BA3A-4221-9F1A-B1AEBD4DE64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDF25AAD-BA3A-4221-9F1A-B1AEBD4DE64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDF25AAD-BA3A-4221-9F1A-B1AEBD4DE64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09753D06-4E4D-4899-A9B5-F960927B56A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09753D06-4E4D-4899-A9B5-F960927B56A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09753D06-4E4D-4899-A9B5-F960927B56A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09753D06-4E4D-4899-A9B5-F960927B56A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6FEFF84-1800-46F3-B280-E07A6EC73E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FEFF84-1800-46F3-B280-E07A6EC73E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FEFF84-1800-46F3-B280-E07A6EC73E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FEFF84-1800-46F3-B280-E07A6EC73E87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,6 +21,9 @@
             // 2. any duplicates that were sent out between family and friends list
             // 3. Names of the guests that have not RSVP'd
 
+            // HashSets are beneficial for their performance operations when adding, subtracting, or finding overlapping datasets
+            // Notable methods from HashSet class include SymetricExceptionWith, UnionWith, and IntersectWith
+
             Console.WriteLine("Hit ENTER to see your party invite breakdown!");
             Console.ReadKey();
 
@@ -31,9 +34,10 @@
 
         public static void InviteDetails()
         {
-            HashSet<string> set = new HashSet<string>();
+            List<string> set = new List<string>();
             List<string> duplicates = new List<string>();
             List<string> noRSVP = new List<string>();
+
             for(int i = 0; i < family.Count; i++)
             {
                 if (!set.Contains(family[i]))
@@ -45,27 +49,27 @@
             {
                 if (!set.Contains(friends[i]))
                 {
-                    friends.Add(friends[i]);
+                    set.Add(friends[i]);
                 }
                 else
                 {
                     duplicates.Add(friends[i]);
                 }
             }
+            
             for (int i = 0; i < set.Count; i++)
             {
-                if (!rsvp.Contains(i))
+                if (!rsvp.Contains(set[i]))
                 {
-                    noRSVP.Add(i);
+                    noRSVP.Add(set[i]);
                 }
-
-                return duplicates.ToString(); // Takes care of figuring out how many duplicated we have 
-            return set.Count.ToString(); // Takes care of all friends and family invited
-            
-            
-            
             }
-            return noRSVP.ToString(); // This takes care of figuring out who has not RSVP'd
+            Console.WriteLine($"The total number of distinct friends and family were {set.Count}");
+            string duplicateList = string.Join(", ", duplicates.ToArray());
+            Console.WriteLine($"The duplicates were: {duplicateList}");
+            string namesNoRsvp = string.Join(", ", noRSVP.ToArray());
+            Console.WriteLine($"The following folks have not RSVP'd: {namesNoRsvp}"); 
+
         }
     }
 }
