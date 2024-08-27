@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopInventory", "ShopInvent
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FamilyGameNight", "FamilyGameNight\FamilyGameNight.csproj", "{D55E4772-B276-4138-998F-CFBD73F37699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendingNewsletters", "SendingNewsletters\SendingNewsletters.csproj", "{8F86F064-DE6F-442C-8088-3B90C36573C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendingNewsletters", "SendingNewsletters\SendingNewsletters.csproj", "{8F86F064-DE6F-442C-8088-3B90C36573C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShufflingCards", "ShufflingCards\ShufflingCards.csproj", "{7F414001-60DC-461D-8BCC-283B4F413BAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{8F86F064-DE6F-442C-8088-3B90C36573C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F86F064-DE6F-442C-8088-3B90C36573C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F86F064-DE6F-442C-8088-3B90C36573C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F414001-60DC-461D-8BCC-283B4F413BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F414001-60DC-461D-8BCC-283B4F413BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F414001-60DC-461D-8BCC-283B4F413BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F414001-60DC-461D-8BCC-283B4F413BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
