@@ -6,6 +6,9 @@ namespace SendingNewsletters
     {
         static void Main(string[] args)
         {
+            var numbers = new List<int> { 1, 2, 3, 4, 5 };
+            int count = numbers.Count();
+
             // INSTRUCTION: Write a C# function that searches as JSON payload for a specific property
             // QUESTION: What are "properties" in JSON?
             // SCENARIO: We have a newsletter subscription service where the JSON Data has some meta information and a list of subscribers.
