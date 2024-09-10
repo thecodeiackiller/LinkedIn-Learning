@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendingNewsletters", "Sendi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShufflingCards", "ShufflingCards\ShufflingCards.csproj", "{7F414001-60DC-461D-8BCC-283B4F413BAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealerReflection", "Ex_Files_C_Sharp_Code_Challenges\Exercise Files\01-15-car-dealership\starter\CarDealerReflection.csproj", "{EFC4C610-7AAB-4BFA-8B19-A29BE10763A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer", "CarDealer\CarDealer.csproj", "{BDCB1422-F30B-4D71-A7FC-1B95A944F815}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,10 +95,10 @@ Global
 		{7F414001-60DC-461D-8BCC-283B4F413BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F414001-60DC-461D-8BCC-283B4F413BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F414001-60DC-461D-8BCC-283B4F413BAA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EFC4C610-7AAB-4BFA-8B19-A29BE10763A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFC4C610-7AAB-4BFA-8B19-A29BE10763A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFC4C610-7AAB-4BFA-8B19-A29BE10763A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFC4C610-7AAB-4BFA-8B19-A29BE10763A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCB1422-F30B-4D71-A7FC-1B95A944F815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCB1422-F30B-4D71-A7FC-1B95A944F815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCB1422-F30B-4D71-A7FC-1B95A944F815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCB1422-F30B-4D71-A7FC-1B95A944F815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
